@@ -1,0 +1,19 @@
+{
+  "name": "life_in_the_wild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Designskyline/Life_In_The_Wild.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Designskyline/Life_In_The_Wild/issues"
+  },
+  "homepage": "https://github.com/Designskyline/Life_In_The_Wild#readme"
+}
